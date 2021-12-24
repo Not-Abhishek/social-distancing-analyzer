@@ -16,7 +16,7 @@
 
 1. Clone and download the repo
 ```bash
-  git clone <this_repo_url>
+  git clone https://github.com/Not-Kira/social-distancing-analyzer/tree/main
 ```
 
 2. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
@@ -31,11 +31,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Demo
-
-Output video
-
-![](output/output.gif)
 
 ## Limitations and Future Scope
 
@@ -53,17 +48,5 @@ Output video
   <li><a href="https://pjreddie.com/darknet/yolo/">YOLO for Object Detection</a></li>
 </ul>
 
-## License
+<b><i>PS: This is my first OpenCV project.</i><b><br></br>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
-
-
-Also, do give my medium article a read! <a href="https://medium.com/@sherwyndsouza1999/social-distancing-analyzer-using-opencv-and-yolo-7572aed7b3bf">Click Here</a>
-
-<b><i>PS: This is my first OpenCV project. Will work on more in the future.</i><b><br></br>
-<b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
-
-<br>
-&copy; Sherwyn D'souza 2020
